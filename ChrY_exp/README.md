@@ -1,1 +1,1 @@
-
+These are the codes for the chromosome Y sequence. GM_annot.gtf represents the prediction annotation from BRAKER3. Y_ANNOT.gff3 and Y_annot_ENSEMBL.gff3 are the actual annotations from RefSeq and ENSEMBL. GM_analysis is the code to find the selectivity and specifity 
