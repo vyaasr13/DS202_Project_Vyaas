@@ -10,6 +10,11 @@ This folder contains the annotations and code that was used to analyze the chrom
 This folder contains the codes to simulate the sequence and perform the viterbi algorithm. It also contains the simulated and predicted annotations. More information in the README of the corresponding folder
 
 **Dependencies**
+
 numpy
 
 gffutils
+
+pandas
+
+
